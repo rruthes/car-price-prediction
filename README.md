@@ -14,14 +14,14 @@ Projeto envolvendo conceitos de Machine Learning para predição de preços de c
 ## Gráficos e resultados obtidos
 <h4>Gráficos - Regressão Linear</h4>
 <p align="center">
-  <img src="graphs/Lin1.png" alt="Gráfico Linear 1" width="500">
-  <img src="graphs/Lin2.png" alt="Gráfico Linear 2" width="500">
+  <img src="graphs/Lin1.png" alt="Gráfico Linear 1" width="300">
+  <img src="graphs/Lin2.png" alt="Gráfico Linear 2" width="300">
 </p>
 <p>Nesses gráficos, já é notável que a distância entre os pontos é pequena, mas que tende a aumentar conforme os preços vão ficando mais altos.</p>
 <h4>Gráficos - Regressão de Lasso</h4>
 <p align="center">
-  <img src="graphs/Lasso1.png" alt="Gráfico de Lasso 1" width="500">
-  <img src="graphs/Lasso2.png" alt="Gráfico de Lasso 2" width= "500">
+  <img src="graphs/Lasso1.png" alt="Gráfico de Lasso 1" width="300">
+  <img src="graphs/Lasso2.png" alt="Gráfico de Lasso 2" width= "300">
 </p>
 <p>Agora, utilizando a Regressão de Lasso, é nítida a mudança na distância entre os pontos. Os resultados de predição obtidos pelo modelo se assemelham mais ainda aos preços reais.</p>
 
